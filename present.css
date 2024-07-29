@@ -41,7 +41,7 @@ html, body {
     -webkit-animation: rotate 11s alternate linear infinite;
             animation: rotate 11s alternate linear infinite;
     cursor: pointer;
-    margin-top: 484px;
+    margin-top: 350px;
   }
   .present-box:hover {
     -webkit-animation: staticFront 700ms ease forwards;
